@@ -1,8 +1,10 @@
+streamlit
 pandas
 numpy
-scikit-learn
-joblib
-streamlit
 plotly
-pymongo
+folium
+streamlit-folium
+joblib
+scikit-learn
+pymongo[srv]
 python-dotenv
