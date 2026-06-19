@@ -1,0 +1,12 @@
+[theme]
+base = "dark"
+primaryColor = "#f59e0b"
+backgroundColor = "#07090f"
+secondaryBackgroundColor = "#10131c"
+textColor = "#e5e7eb"
+font = "sans serif"
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = true
